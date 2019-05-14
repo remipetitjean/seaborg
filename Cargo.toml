@@ -3,5 +3,10 @@ name = "seaborg"
 version = "0.1.0"
 authors = ["Remi Petitjean <remi.petitjean@gmail.com>"]
 edition = "2018"
+description = "Dataframe package"
+license = "MIT"
+documentation = ""
+homepage = "http://www.seaborg.rs"
+repository = "https://github.com/remipetitjean/seaborg"
 
 [dependencies]
